@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764954330847",
+    "project_id": "health-fa15c",
+    "storage_bucket": "health-fa15c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764954330847:android:039b4ba59a391a5d73cb6a",
+        "android_client_info": {
+          "package_name": "com.example.healthinsurance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764954330847-nq5m4as106kft77o1s4f2oq1euc3rrp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlccOLWnE56kDfSCIlUEqXTx5KUjCpII8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764954330847-nq5m4as106kft77o1s4f2oq1euc3rrp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
